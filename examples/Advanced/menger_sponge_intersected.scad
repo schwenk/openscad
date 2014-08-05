@@ -5,7 +5,7 @@
 // Size of edge of sponge
 D=100;
 // Fractal depth (number of iterations)
-n=3;
+n=2;
 
 echo(version=version());
 
